@@ -1,0 +1,19 @@
+{
+  "name": "npme-test2",
+  "version": "1.0.0",
+  "description": "username tesst",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hi there\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/theicosuperman/npme-test2.git"
+  },
+  "author": "anton-e-guru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theicosuperman/npme-test2/issues"
+  },
+  "homepage": "https://github.com/theicosuperman/npme-test2#readme"
+}
